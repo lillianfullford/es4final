@@ -1,0 +1,25 @@
+v 4
+file . "vga_driver.vhdl" "59f194b928927d98c9d6b04c74c99af5ad8c6487" "20211213160609.660":
+  entity vga_driver at 1( 0) + 0 on 25;
+  architecture synth of vga_driver at 16( 319) + 0 on 26;
+file . "pll.vhdl" "c586c84d6d757a32a5a144700f6b9bce6d6b8565" "20211213160609.659":
+  entity pll at 1( 0) + 0 on 23;
+  architecture synth of pll at 13( 211) + 0 on 24;
+file . "converter.vhdl" "8fb686879378d54e7534848f872d3ee4e820928c" "20211213160609.657":
+  entity converter at 1( 0) + 0 on 21;
+  architecture synth of converter at 12( 181) + 0 on 22;
+file . "characters.vhdl" "aee551ebbd3181e56f7a9a637173b7539897256d" "20211213160609.656":
+  entity characters at 1( 0) + 0 on 19;
+  architecture synth of characters at 14( 256) + 0 on 20;
+file . "board.vhdl" "4a38a2c6853e2e54be3de57d05499312a1dbbfab" "20211213160609.654":
+  entity board at 1( 0) + 0 on 17;
+  architecture synth of board at 18( 374) + 0 on 18;
+file . "Lab_07_Counter.vhdl" "ddafd053cc562a9facea758012b594a069e02ab2" "20211213160609.652":
+  entity lab_07_counter at 1( 0) + 0 on 15;
+  architecture synth of lab_07_counter at 11( 164) + 0 on 16;
+file . "Lab07_Top.vhdl" "46ced0127d209008c3069f3a818236c383f98ac2" "20211213160609.651":
+  entity lab07_top at 1( 0) + 0 on 13;
+  architecture synth of lab07_top at 15( 239) + 0 on 14;
+file . "LFSR.vhdl" "68410d80058a12d8cb98d784278c2ede3beb970f" "20211213160609.649":
+  entity lfsr at 1( 0) + 0 on 11;
+  architecture synth of lfsr at 13( 189) + 0 on 12;
